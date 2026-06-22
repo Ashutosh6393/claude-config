@@ -1,0 +1,13 @@
+.credentials.json
+history.jsonl
+.last-cleanup
+.last-update-result.json
+mcp-needs-auth-cache.json
+backups/
+cache/
+daemon/
+file-history/
+ide/
+paste-cache/
+sessions/
+shell-snapshots/
